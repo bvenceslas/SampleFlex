@@ -1,0 +1,26 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.OrderContainer {
+  background-color: burlywood;
+  width: 100%;
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+  border: crimson 1px solid;
+}
+
+.ImageContainer {
+  padding-right: 10px;
+}
+
+.TextContainer {
+  padding-left: 10px;
+}
+
+.Price {
+  padding-top: 15px;
+}
