@@ -1,0 +1,44 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.OrderItemBox {
+  padding: 10px;
+}
+
+.Container {
+  background-color: beige;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Text-Item {
+  padding: 10px;
+}
+
+.OrderItemTitle {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;;
+}
+
+.OrderItemDescription {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-cost {
+  color: rgb(35, 182, 219);
+}
+
+.product-status {
+  color: rgb(58, 61, 61);
+}
+
+.Image-Item {
+  position: relative;;
+}
