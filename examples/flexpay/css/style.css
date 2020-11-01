@@ -1,0 +1,82 @@
+* {
+    font-fmily: 'Century Gothic', sans-serif;
+    font-size: 20px;
+}
+
+select {
+    width: 350px;
+    margin: 10px;
+}
+
+.select-box {
+    padding-top: 10px;
+    text-align: center;
+    border-top: 1px solid;    
+    border-bottom: 1px solid;
+}
+
+.pay-select{
+    width: 100%;
+    padding: 10px;
+}
+
+.address-box {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header-address {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.address-data {
+    padding-left: 10px;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    border-bottom: 1px solid;
+}
+
+.delivery-slot {
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+}
+
+.morning {
+    margin-top: 10px;
+    padding: 10px;
+    background: #B9E1E1;
+    border-radius: 0.6em;
+    border: 1px solid gray;
+    width: 350px;
+}
+
+.afternoon {
+    margin-top: 10px;
+    padding: 10px;
+    background: #FFFF;
+    border-radius: 0.6em;
+    border: 1px solid gray;
+    width: 350px;
+}
+
+.pay-agreement {
+    padding: 10px;
+    text-align: center;
+}
+
+check-item {
+    width: 9px;
+    height: 8px;
+    left: 1.5px;
+    top: 1.5px;
+    border: solid #1AC!C! 3px;
+}
+
+
+
+
+
